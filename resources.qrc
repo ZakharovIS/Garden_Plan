@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Images/icon.png</file>
+        <file>Images/grid.png</file>
+        <file>Images/rotate-left.png</file>
+        <file>Images/rotate-to-right.png</file>
+        <file>Images/square-menu.png</file>
+        <file>Images/trash.png</file>
+        <file>Images/zoom-in.png</file>
+        <file>Images/zoom-out.png</file>
+        <file>Images/blank-file.png</file>
+        <file>Images/download-symbol-1.png</file>
+        <file>Images/open-folder-1.png</file>
+        <file>Images/printer.png</file>
+        <file>Images/close.png</file>
+        <file>Images/hard-drive.png</file>
+    </qresource>
+    <qresource prefix="/Textures">
+        <file>Images/grass1.jpg</file>
+        <file>Images/asphalt.jpg</file>
+        <file>Images/asphalt2.jpg</file>
+        <file>Images/stone.jpg</file>
+        <file>Images/grass2.jpg</file>
+    </qresource>
+</RCC>
